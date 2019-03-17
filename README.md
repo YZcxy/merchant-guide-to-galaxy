@@ -8,7 +8,7 @@ java1.8及以上
 ## 如何运行
 
 merchant-guide-to-galaxy/Input.txt    
-在这里配置你需要输入文件
+在这里配置你需要输入的命令文件
 
 merchant-guide-to-galaxy/src/main/java/com/chad/core   
 为核心业务模块，其中包含可运行文件Program.java
