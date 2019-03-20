@@ -28,7 +28,4 @@ glob prok Iron is 782.0 Credits
 I have no idea what you are talking about   
 ```
 
-## 联系方式
-
-278253098@qq.com  
 
